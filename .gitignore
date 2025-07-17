@@ -24,8 +24,35 @@ ehthumbs.db
 Thumbs.db
 
 # Tutti gli addon esclusi tranne quelli custom
-addons/*
-!addons/script.myaddon.debug/
+remote/addons/*
+!remote/addons/script.myaddon.debug/
 
 # VS Code config inclusa
 !.vscode/
+# +10000 files! troppi
+remote/userdata/Thumbnails/
+remote/playlist/
+remote/cdm/
+remote/system/
+remote/media/
+remote/userdata/addon_data/plugin.audio.soundcloud/cache/
+remote/userdata/addon_data/plugin.video.composite_for_plex/cache/
+
+remote/userdata/addon_data/**/cache/
+remote/userdata/addon_data/**/bin/
+remote/userdata/addon_data/**/*.dat
+remote/userdata/addon_data/**/*.bak
+remote/userdata/addon_data/**/*.nfo
+remote/userdata/addon_data/**/*.strm
+remote/userdata/addon_data/plugin.video.kod/videolibrary/
+remote/userdata/addon_data/**/*.png
+remote/userdata/addon_data/script.cu.lrclyrics/lyrics/
+remote/userdata/addon_data/script.module.autocompletion/
+remote/userdata/addon_data/**/*.log.*
+remote/userdata/addon_data/**/*.zip
+remote/userdata/addon_data/**/*.def
+remote/userdata/playlists/
+remote/userdata/addon_data/service.libraryautoupdate/last_run.txt
+remote/userdata/addon_data/plugin.video.kod/db.sqlite
+__*
+*copy*

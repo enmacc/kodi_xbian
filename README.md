@@ -8,7 +8,8 @@ Questo repo contiene:
 - Makefile per fare tutto in un colpo solo.
 
 ## 📂 Struttura
-<pre>
+
+```text
 .
 ├── remote/                # Remote mount folder in locale oppure sparisce
    ├── addons/             # Tutti gli addon remoti montati via SSHFS
@@ -17,9 +18,9 @@ Questo repo contiene:
 ├── mount_and_log.sh       # Script per montare e tail-log
 ├── Makefile               # Automazioni varie
 └── .gitignore             # Git config
-</pre>
 
-## ✅ Flusso consigliato
+
+```## ✅ Flusso consigliato
 
 1. Monta la cartella `.kodi`:
    make mount

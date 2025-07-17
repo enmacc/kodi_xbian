@@ -25,5 +25,13 @@ unpatch:
 	@echo ">>> Rimuovo debugpy da tutti i default.py"
 	python3 unpatch_debugpy.py || echo "Script unpatch non ancora creato."
 
+find:
+	@echo ">>> Cerco i file maggiori di 100MB"
+	find . -type f -size +100M
+	
+find_remove:
+	@echo ">>> Cerco e rimuovi i file maggiori di 100MB"	
+	k=0; for i in `find . -type f -size +100M` ; do let k=k+1; rm -r -f $i; done; echo 'Removed:' $k;
+
 code:
 	code $(LOCAL_PATH)
