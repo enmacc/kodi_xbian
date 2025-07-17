@@ -1,0 +1,24 @@
+<settings version="2">
+    <setting id="keeporiginaltitle">true</setting>
+    <setting id="language" default="true">en-US</setting>
+    <setting id="searchlanguage" default="true">en-US</setting>
+    <setting id="fetch_posters" default="true">true</setting>
+    <setting id="fanart" default="true">true</setting>
+    <setting id="landscape" default="true">true</setting>
+    <setting id="trailer" default="true">true</setting>
+    <setting id="tmdbcertcountry" default="true">us</setting>
+    <setting id="certprefix" default="true">Rated </setting>
+    <setting id="RatingS" default="true">TMDb</setting>
+    <setting id="imdbanyway">true</setting>
+    <setting id="traktanyway">true</setting>
+    <setting id="multiple_studios" default="true">false</setting>
+    <setting id="add_tags" default="true">true</setting>
+    <setting id="lastUpdated">1748545792.727136</setting>
+    <setting id="originalUrl">https://image.tmdb.org/t/p/original</setting>
+    <setting id="previewUrl">https://image.tmdb.org/t/p/w780</setting>
+    <setting id="maxartwork" default="true">10</setting>
+    <setting id="enable_fanarttv_artwork" default="true">true</setting>
+    <setting id="fanarttv_language" default="true">en</setting>
+    <setting id="prioritize_fanarttv_artwork" default="true">false</setting>
+    <setting id="fanarttv_clientkey" default="true" />
+</settings>

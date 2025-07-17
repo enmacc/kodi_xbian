@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "multithread": true,
+        "order": 0,
+        "result_mode": 2,
+        "tmdb": true
+    }
+}

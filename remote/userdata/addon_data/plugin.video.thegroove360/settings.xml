@@ -1,0 +1,22 @@
+<settings version="2">
+    <setting id="skipintro">true</setting>
+    <setting id="is_tmdb">true</setting>
+    <setting id="tmdb_api_key" default="true" />
+    <setting id="show_epg">true</setting>
+    <setting id="epg_update" default="true" />
+    <setting id="show_logos">true</setting>
+    <setting id="logos_update" default="true" />
+    <setting id="epg_time_shift" default="true">0</setting>
+    <setting id="use_plexus" default="true">false</setting>
+    <setting id="acestream_server" default="true">127.0.0.1</setting>
+    <setting id="acestream_port">6878</setting>
+    <setting id="debug" default="true">false</setting>
+    <setting id="max_threads" default="true">0</setting>
+    <setting id="zeronet_url" default="true">127.0.0.1:43110</setting>
+    <setting id="check_liste" default="true">false</setting>
+    <setting id="use_doh_requests" default="true">false</setting>
+    <setting id="dns_provider" default="true">Google</setting>
+    <setting id="resolvers_update" default="true" />
+    <setting id="intro_viewed" default="true">false</setting>
+    <setting id="n_cores" default="true">0</setting>
+</settings>

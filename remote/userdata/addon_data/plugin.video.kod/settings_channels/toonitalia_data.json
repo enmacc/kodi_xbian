@@ -1,0 +1,46 @@
+{
+    "TVSHOW_AUTORENUMBER": {
+        "Ryu il ragazzo delle caverne": {
+            "episode": 1,
+            "episodes": {
+                "1": "1x01",
+                "10": "1x10",
+                "11": "1x11",
+                "12": "1x12",
+                "13": "1x13",
+                "14": "1x14",
+                "15": "1x15",
+                "16": "1x16",
+                "17": "1x17",
+                "18": "1x18",
+                "19": "1x19",
+                "2": "1x02",
+                "20": "1x20",
+                "21": "1x21",
+                "22": "1x22",
+                "3": "1x03",
+                "4": "1x04",
+                "5": "1x05",
+                "6": "1x06",
+                "7": "1x07",
+                "8": "1x08",
+                "9": "1x09"
+            },
+            "id": "28037",
+            "info": "https://www.themoviedb.org/tv/28037, http://thetvdb.com/index.php?tab=series&id=185491\n",
+            "manual": false,
+            "season": 1,
+            "seasons": {
+                "1": 22
+            },
+            "specials": {}
+        }
+    },
+    "settings": {
+        "autorenumber": false,
+        "checklinks": false,
+        "checklinks_number": 2,
+        "include_in_global_search": true,
+        "include_in_newest_anime": false
+    }
+}

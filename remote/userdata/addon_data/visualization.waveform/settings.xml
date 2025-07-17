@@ -1,0 +1,10 @@
+<settings version="2">
+    <setting id="points-per-line" default="true">500</setting>
+    <setting id="line-thickness" default="true">3</setting>
+    <setting id="line-red">0.8</setting>
+    <setting id="line-green">0.7</setting>
+    <setting id="line-blue">0.8</setting>
+    <setting id="bg-red" default="true">0</setting>
+    <setting id="bg-green" default="true">0</setting>
+    <setting id="bg-blue" default="true">0</setting>
+</settings>

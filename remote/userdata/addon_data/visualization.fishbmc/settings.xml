@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="detail" default="true">2</setting>
+    <setting id="divisor" default="true">2</setting>
+    <setting id="nervous">true</setting>
+    <setting id="filemode" default="true">true</setting>
+</settings>

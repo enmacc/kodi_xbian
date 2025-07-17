@@ -1,0 +1,14 @@
+<settings version="2">
+    <setting id="page_limit">20</setting>
+    <setting id="ext_info" default="true">false</setting>
+    <setting id="thumb_size">2</setting>
+    <setting id="debug">true</setting>
+    <setting id="oath_code" default="true" />
+    <setting id="access_token" default="true" />
+    <setting id="resolver_mixcloud">true</setting>
+    <setting id="resolver_mixclouddownloader" default="true">false</setting>
+    <setting id="resolver_offliberty">false</setting>
+    <setting id="play_history_max">100</setting>
+    <setting id="search_history_max">100</setting>
+    <setting id="last_checked_version" default="true">3.0.2</setting>
+</settings>

@@ -1,0 +1,7 @@
+<settings version="2">
+    <setting id="mode">1</setting>
+    <setting id="pointsize">25</setting>
+    <setting id="bar_height">2</setting>
+    <setting id="speed">1</setting>
+    <setting id="rotation_angle" default="true">-15</setting>
+</settings>

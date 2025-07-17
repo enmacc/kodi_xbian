@@ -1,0 +1,10 @@
+<settings version="2">
+    <setting id="lastfmsubmitsongs" default="true">true</setting>
+    <setting id="lastfmsubmitvideos" default="true">false</setting>
+    <setting id="lastfmsubmitradio" default="true">false</setting>
+    <setting id="lastfmuser">enmacc</setting>
+    <setting id="lastfmpass">#j7rrGieYY!EX,c</setting>
+    <setting id="lastfmconfirm" default="true">true</setting>
+    <setting id="Debug" default="true">false</setting>
+    <setting id="lastfmkey">9xDMDW3DpHQcxPhd_sEqGHJIcQ3IuZ6j</setting>
+</settings>

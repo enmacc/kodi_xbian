@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "autorenumber": false,
+        "checklinks": false,
+        "checklinks_number": 2,
+        "include_in_global_search": true,
+        "include_in_newest_anime": true,
+        "include_in_newest_series": true
+    }
+}

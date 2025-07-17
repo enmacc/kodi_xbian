@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="timeout">8</setting>
+    <setting id="clear_cache" default="true" />
+    <setting id="DebugMode" default="true">false</setting>
+    <setting id="context">audio</setting>
+</settings>

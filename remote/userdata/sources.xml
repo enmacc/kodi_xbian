@@ -1,0 +1,95 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>videolibrary</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.kod/videolibrary/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>downloads</name>
+            <path pathversion="1">/home/xbian/.kodi/userdata/addon_data/plugin.video.kod/downloads/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>basi</name>
+            <path pathversion="1">/home/xbian/.kodi/playlist/bea/zecchino/basi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Tera Film</name>
+            <path pathversion="1">upnp://9b5d26d8-e3cb-3eb6-1550-8182de363f51/0%2f1%2fTERAGATEZ%2fFilm/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Tera Bibi</name>
+            <path pathversion="1">upnp://9b5d26d8-e3cb-3eb6-1550-8182de363f51/0%2f1%2fTERAGATEZ%2fBibi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Tera Doc </name>
+            <path pathversion="1">upnp://9b5d26d8-e3cb-3eb6-1550-8182de363f51/0%2f1%2fTERAGATEZ%2fDocumentari/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+        <source>
+            <name>basi</name>
+            <path pathversion="1">/home/xbian/.kodi/playlist/bea/zecchino/basi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>canzoni zecchino d'oro</name>
+            <path pathversion="1">special://musicplaylists/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Tera Music </name>
+            <path pathversion="1">upnp://9b5d26d8-e3cb-3eb6-1550-8182de363f51/0%2f1%2fTERAGATEZ%2fMusic/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>Kod</name>
+            <path pathversion="1">https://kodiondemand.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>mandrakodi</name>
+            <path pathversion="1">https://mandrakodi.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>thegroove</name>
+            <path pathversion="1">https://thegroove360.org/addons/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>yatse</name>
+            <path pathversion="1">https://yatse.tv/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>acestream.engine</name>
+            <path pathversion="1">https://github.com/elipatov/acestream.engine</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>HTTPAceProxy</name>
+            <path pathversion="1">https://github.com/pepsik-kiev/HTTPAceProxy</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

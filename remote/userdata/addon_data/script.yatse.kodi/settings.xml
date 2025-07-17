@@ -1,0 +1,11 @@
+<settings version="2">
+    <setting id="logEnabled" default="true">false</setting>
+    <setting id="openMagnetWith" default="true">Elementum</setting>
+    <setting id="preferredYoutubeAddon" default="true">YouTube</setting>
+    <setting id="useCookiesFromBrowser" default="true">false</setting>
+    <setting id="cookiesBrowserName" default="true" />
+    <setting id="useYoutubeDLHttpHeader">true</setting>
+    <setting id="useYoutubeDLCustomFilter" default="true">false</setting>
+    <setting id="YoutubeDLCustomMediaFilter" default="true" />
+    <setting id="skipSslVerification" default="true">false</setting>
+</settings>

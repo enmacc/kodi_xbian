@@ -1,0 +1,37 @@
+<settings version="2">
+    <setting id="clean" default="true">false</setting>
+    <setting id="cleanonstart" default="true">false</setting>
+    <setting id="scanonstart" default="true">false</setting>
+    <setting id="pauseonplayback">true</setting>
+    <setting id="hideprogress">true</setting>
+    <setting id="showstatusdialog" default="true">false</setting>
+    <setting id="watchvideo">true</setting>
+    <setting id="videosource1" default="true" />
+    <setting id="videosource2" default="true" />
+    <setting id="videosource3" default="true" />
+    <setting id="videosource4" default="true" />
+    <setting id="videosource5" default="true" />
+    <setting id="videosource6" default="true" />
+    <setting id="videosource7" default="true" />
+    <setting id="videosource8" default="true" />
+    <setting id="videosource9" default="true" />
+    <setting id="videosource10" default="true" />
+    <setting id="watchmusic">true</setting>
+    <setting id="musicsource1" default="true" />
+    <setting id="musicsource2" default="true" />
+    <setting id="musicsource3" default="true" />
+    <setting id="musicsource4" default="true" />
+    <setting id="musicsource5" default="true" />
+    <setting id="musicsource6" default="true" />
+    <setting id="musicsource7" default="true" />
+    <setting id="musicsource8" default="true" />
+    <setting id="musicsource9" default="true" />
+    <setting id="musicsource10" default="true" />
+    <setting id="method" default="true">0</setting>
+    <setting id="removalmethod" default="true">0</setting>
+    <setting id="pollinginterval">4</setting>
+    <setting id="recursivepolling">true</setting>
+    <setting id="delay">1</setting>
+    <setting id="startupdelay" default="true">0</setting>
+    <setting id="forceglobalscan" default="true">false</setting>
+</settings>

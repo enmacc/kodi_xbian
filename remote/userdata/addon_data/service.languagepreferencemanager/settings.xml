@@ -1,0 +1,42 @@
+<settings version="2">
+    <setting id="enabled">true</setting>
+    <setting id="log_level">2</setting>
+    <setting id="turnSubsOn">true</setting>
+    <setting id="turnSubsOff">true</setting>
+    <setting id="useFilename">true</setting>
+    <setting id="filenameRegex" default="true">audiostream[_|.|-]*\d+|subtitle[_|.|-]*\d+</setting>
+    <setting id="delay" default="true">300</setting>
+    <setting id="pause" default="true">false</setting>
+    <setting id="signs" default="true">false</setting>
+    <setting id="enableSubtitleKeywordBlacklist" default="true">false</setting>
+    <setting id="SubtitleKeywordBlacklistLabel" default="true" />
+    <setting id="SubtitleKeywordBlacklist" default="true" />
+    <setting id="enableAudioKeywordBlacklist" default="true">false</setting>
+    <setting id="AudioKeywordBlacklistLabel" default="true" />
+    <setting id="AudioKeywordBlacklist" default="true" />
+    <setting id="FastSubsDisplay" default="true">0</setting>
+    <setting id="enableAudio">true</setting>
+    <setting id="AudioLang01">23</setting>
+    <setting id="AudioLang02" default="true">11</setting>
+    <setting id="AudioLang03" default="true">45</setting>
+    <setting id="CustomAudio" default="true" />
+    <setting id="enableSub">true</setting>
+    <setting id="SubLang01">23</setting>
+    <setting id="SubForced01" default="true">false</setting>
+    <setting id="SubLang02" default="true">11</setting>
+    <setting id="SubForced02" default="true">false</setting>
+    <setting id="SubLang03" default="true">45</setting>
+    <setting id="SubForced03" default="true">false</setting>
+    <setting id="CustomSub" default="true" />
+    <setting id="enableCondSub">true</setting>
+    <setting id="CondAudioLang01">11</setting>
+    <setting id="CondSubLang01">11</setting>
+    <setting id="CondSubForced01" default="true">false</setting>
+    <setting id="CondAudioLang02">46</setting>
+    <setting id="CondSubLang02">11</setting>
+    <setting id="CondSubForced02" default="true">false</setting>
+    <setting id="CondAudioLang03">23</setting>
+    <setting id="CondSubLang03" default="true">11</setting>
+    <setting id="CondSubForced03" default="true">false</setting>
+    <setting id="CustomCondSub" default="true" />
+</settings>

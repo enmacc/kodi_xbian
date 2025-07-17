@@ -1,0 +1,10 @@
+<settings version="2">
+    <setting id="username" default="true" />
+    <setting id="password" default="true" />
+    <setting id="favoritesonly" default="true">false</setting>
+    <setting id="drmLevel" default="true">0</setting>
+    <setting id="enableDolby" default="true">true</setting>
+    <setting id="provider" default="true">0</setting>
+    <setting id="parentalPin" default="true" />
+    <setting id="skipStart" default="true">true</setting>
+</settings>

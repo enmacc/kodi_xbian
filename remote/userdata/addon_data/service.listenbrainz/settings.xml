@@ -1,0 +1,8 @@
+<settings version="2">
+    <setting id="listenbrainzsubmitsongs">true</setting>
+    <setting id="listenbrainzsubmitvideos">true</setting>
+    <setting id="listenbrainzsubmitradio">true</setting>
+    <setting id="listenbrainzuser" default="true">enmacc</setting>
+    <setting id="listenbrainztoken" default="true">59fe2dc5-dbfa-4b81-bf0d-5d02eee0cf88</setting>
+    <setting id="listenbrainzserver" default="true">https://api.listenbrainz.org/</setting>
+</settings>

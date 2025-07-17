@@ -1,0 +1,92 @@
+<settings version="2">
+    <setting id="devicename" default="true">Composite</setting>
+    <setting id="discovery" default="true">1</setting>
+    <setting id="ipaddress" default="true">localhost</setting>
+    <setting id="port" default="true">30400</setting>
+    <setting id="manual_https" default="true">false</setting>
+    <setting id="manual_certificate_verification" default="true">false</setting>
+    <setting id="masterServer" default="true" />
+    <setting id="detected_notification" default="true">false</setting>
+    <setting id="client_id">d5e4737a-45a2-4b06-a5f1-fc353c9a1dae</setting>
+    <setting id="wolon" default="true">false</setting>
+    <setting id="wol1" default="true" />
+    <setting id="wol2" default="true" />
+    <setting id="wol3" default="true" />
+    <setting id="wol4" default="true" />
+    <setting id="wol5" default="true" />
+    <setting id="wol6" default="true" />
+    <setting id="wol7" default="true" />
+    <setting id="wol8" default="true" />
+    <setting id="wol9" default="true" />
+    <setting id="wol10" default="true" />
+    <setting id="wol11" default="true" />
+    <setting id="streaming" default="true">0</setting>
+    <setting id="streamControl" default="true">1</setting>
+    <setting id="default_forced_subs" default="true">true</setting>
+    <setting id="forcedvd" default="true">false</setting>
+    <setting id="nasoverride" default="true">false</setting>
+    <setting id="nasoverrideip" default="true" />
+    <setting id="nasuserid" default="true" />
+    <setting id="naspass" default="true" />
+    <setting id="nasroot" default="true" />
+    <setting id="intro_skipping" default="true">true</setting>
+    <setting id="lyrics" default="true">true</setting>
+    <setting id="default_lyrics_format" default="true">0</setting>
+    <setting id="transcode" default="true">false</setting>
+    <setting id="transcode_g8bit" default="true">false</setting>
+    <setting id="transcode_g1080" default="true">false</setting>
+    <setting id="transcode_hevc" default="true">false</setting>
+    <setting id="transcode_target_quality_0" default="true">1280x720, 4Mbps</setting>
+    <setting id="transcode_target_sub_size_0" default="true">100</setting>
+    <setting id="transcode_target_audio_size_0" default="true">0</setting>
+    <setting id="transcode_target_enabled_1" default="true">false</setting>
+    <setting id="transcode_target_quality_1" default="true">1280x720, 4Mbps</setting>
+    <setting id="transcode_target_sub_size_1" default="true">100</setting>
+    <setting id="transcode_target_audio_size_1" default="true">0</setting>
+    <setting id="transcode_target_enabled_2" default="true">false</setting>
+    <setting id="transcode_target_quality_2" default="true">1280x720, 4Mbps</setting>
+    <setting id="transcode_target_sub_size_2" default="true">100</setting>
+    <setting id="transcode_target_audio_size_2" default="true">0</setting>
+    <setting id="secondary" default="true">true</setting>
+    <setting id="flatten" default="true">0</setting>
+    <setting id="disable_all_season" default="true">false</setting>
+    <setting id="ep_sort_method" default="true">0</setting>
+    <setting id="mixed_content_type" default="true">0</setting>
+    <setting id="prefix_server" default="true">1</setting>
+    <setting id="prefix_server_sections" default="true">false</setting>
+    <setting id="ra_sections_items_per_server" default="true">10</setting>
+    <setting id="ra_sections_include_watched" default="true">false</setting>
+    <setting id="show_composite_playlist_menu" default="true">true</setting>
+    <setting id="show_myplex_queue_menu" default="true">true</setting>
+    <setting id="show_channels_menu" default="true">true</setting>
+    <setting id="show_plex_online_menu" default="true">true</setting>
+    <setting id="show_playlists_menu" default="true">true</setting>
+    <setting id="show_widget_menu" default="true">true</setting>
+    <setting id="skipcontextmenus" default="true">false</setting>
+    <setting id="showdeletecontextmenu" default="true">false</setting>
+    <setting id="use_up_next" default="true">false</setting>
+    <setting id="up_next_episode_thumbs" default="true">false</setting>
+    <setting id="up_next_data_encoding" default="true">hex</setting>
+    <setting id="use_companion_receiver" default="true">false</setting>
+    <setting id="receiver_name" default="true">Kodi-Composite</setting>
+    <setting id="receiver_port" default="true">3005</setting>
+    <setting id="web_server_username" default="true">kodi</setting>
+    <setting id="web_server_password" default="true" />
+    <setting id="web_server_port" default="true">8080</setting>
+    <setting id="receiver_uuid" default="true" />
+    <setting id="replacement" default="true">false</setting>
+    <setting id="monitoroff" default="true">false</setting>
+    <setting id="fullres_thumbs" default="true">true</setting>
+    <setting id="fullres_fanart" default="true">true</setting>
+    <setting id="skipmetadata" default="true">false</setting>
+    <setting id="skipimages" default="true">false</setting>
+    <setting id="skipflags" default="true">false</setting>
+    <setting id="cache" default="true">true</setting>
+    <setting id="cache_ttl" default="true">60</setting>
+    <setting id="data_cache" default="true">true</setting>
+    <setting id="data_cache_ttl" default="true">15</setting>
+    <setting id="clear_data_cache_refresh" default="true">true</setting>
+    <setting id="kodicache" default="true">false</setting>
+    <setting id="debug" default="true">0</setting>
+    <setting id="privacy" default="true">true</setting>
+</settings>

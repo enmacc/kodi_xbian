@@ -1,0 +1,19 @@
+<settings version="2">
+    <setting id="tmdb_tok" default="true">35704479108606</setting>
+    <setting id="infodialog_onclick" default="true">true</setting>
+    <setting id="classic_search" default="true">false</setting>
+    <setting id="first_start_infodialog" default="true">true</setting>
+    <setting id="Youtube API Key" default="true" />
+    <setting id="TADB API Key" default="true" />
+    <setting id="OMDb API Key" default="true" />
+    <setting id="viewtype_selection" default="true" />
+    <setting id="session_id" default="true" />
+    <setting id="force_native_layout" default="true">false</setting>
+    <setting id="LanguageID" default="true">en</setting>
+    <setting id="tmdb_username" default="true" />
+    <setting id="tmdb_password" default="true" />
+    <setting id="include_adults" default="true">false</setting>
+    <setting id="autocomplete_provider" default="true">1</setting>
+    <setting id="autocomplete_lang" default="true">5</setting>
+    <setting id="autocomplete_lang_local" default="true">0</setting>
+</settings>

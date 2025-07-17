@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "adult_mal": false,
+        "imdb": 0,
+        "passmal": "",
+        "tmdb": 0,
+        "tmdb_alternativo": 6,
+        "usuariomal": ""
+    }
+}

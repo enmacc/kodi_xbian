@@ -1,0 +1,7 @@
+<settings version="2">
+    <setting id="debug">true</setting>
+    <setting id="auto_seek">true</setting>
+    <setting id="kodi_skip_stepping">true</setting>
+    <setting id="dynamic_timeline_seek">true</setting>
+    <setting id="fast_back">true</setting>
+</settings>

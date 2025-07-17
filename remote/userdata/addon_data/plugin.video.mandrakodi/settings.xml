@@ -1,0 +1,19 @@
+<settings version="2">
+    <setting id="baseUrl">https://bit.ly/MandraKodi2</setting>
+    <setting id="password">SjWq76dcrC</setting>
+    <setting id="ShowAdult" default="true">false</setting>
+    <setting id="debug">on</setting>
+    <setting id="macFile" default="true">blank</setting>
+    <setting id="iptvFile" default="true">blank</setting>
+    <setting id="m3uFile" default="true">blank</setting>
+    <setting id="urlAppo1">55</setting>
+    <setting id="urlAppo2">YGUOFG</setting>
+    <setting id="urlAppo3" default="true">Not in use</setting>
+    <setting id="urlAppo4" default="true">Not in use</setting>
+    <setting id="urlAppo5" default="true">Not in use</setting>
+    <setting id="SkinWall">55</setting>
+    <setting id="SkinList1">55</setting>
+    <setting id="SkinList2">55</setting>
+    <setting id="SkinInfo1">55</setting>
+    <setting id="SkinInfo2">55</setting>
+</settings>

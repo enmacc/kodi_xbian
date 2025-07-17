@@ -1,0 +1,12 @@
+<settings version="2">
+    <setting id="LDuser" default="true" />
+    <setting id="LDpass" default="true" />
+    <setting id="PT">false</setting>
+    <setting id="PTBR">false</setting>
+    <setting id="ES">false</setting>
+    <setting id="EN" default="true">true</setting>
+    <setting id="DESC" default="true">false</setting>
+    <setting id="PARENT" default="true">0</setting>
+    <setting id="SEARCH" default="true">0</setting>
+    <setting id="DEBUG" default="true">false</setting>
+</settings>

@@ -1,0 +1,23 @@
+<settings version="2">
+    <setting id="w_movies">true</setting>
+    <setting id="w_episodes">true</setting>
+    <setting id="autostart">true</setting>
+    <setting id="delay">5</setting>
+    <setting id="starttype" default="true">0</setting>
+    <setting id="interval">24</setting>
+    <setting id="watch_user">true</setting>
+    <setting id="progressdialog">true</setting>
+    <setting id="verbosity">0</setting>
+    <setting id="db_format" default="true">0</setting>
+    <setting id="extdb" default="true">false</setting>
+    <setting id="dbpath" default="true" />
+    <setting id="dbfilename" default="true">watchedlist.db</setting>
+    <setting id="dbbackupcount">-1</setting>
+    <setting id="dropbox_enabled" default="true">false</setting>
+    <setting id="dropbox_apikey" default="true" />
+    <setting id="mysql_server" default="true">127.0.0.1</setting>
+    <setting id="mysql_port">3306</setting>
+    <setting id="mysql_db" default="true">WatchedList</setting>
+    <setting id="mysql_user" default="true">xbmc</setting>
+    <setting id="mysql_pass" default="true">xbmc</setting>
+</settings>

@@ -1,0 +1,7 @@
+<settings version="2">
+    <setting id="show_subgenres">true</setting>
+    <setting id="show_bitrate_in_title">true</setting>
+    <setting id="bitrate_filter_enabled">true</setting>
+    <setting id="bitrate_filter">1</setting>
+    <setting id="limit">500</setting>
+</settings>
