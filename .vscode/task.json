@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Mount Kodi",
+      "type": "shell",
+      "command": "make mount"
+    },
+    {
+      "label": "Unmount Kodi",
+      "type": "shell",
+      "command": "make unmount"
+    },
+    {
+      "label": "Patch DebugPy",
+      "type": "shell",
+      "command": "make patch"
+    },
+    {
+      "label": "Tail Kodi Log",
+      "type": "shell",
+      "command": "make log"
+    }
+  ]
+}

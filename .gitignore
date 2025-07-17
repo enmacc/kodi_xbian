@@ -1,0 +1,31 @@
+# Ignora file di runtime di Kodi
+temp/
+**/*.log
+**/*.db
+**/*.db-shm
+**/*.db-wal
+**/*.pyo
+**/*.pyc
+__pycache__/
+
+# Credenziali SSH o config SSHFS locali
+.ssh/
+.sshfs*
+
+# Backup editor
+*~
+*.swp
+*.swo
+
+# File di sistema
+.Trash-*
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Tutti gli addon esclusi tranne quelli custom
+addons/*
+!addons/script.myaddon.debug/
+
+# VS Code config inclusa
+!.vscode/

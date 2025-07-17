@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Attach Kodi Remote Debug",
+      "type": "debugpy",
+      "request": "attach",
+      "connect": {
+        "host": "xbian.local",
+        "port": 5678
+      },
+      "pathMappings": [
+        {
+          "localRoot": "/home/emacchia/Private/kodi_xbian/remote/addons",
+          "remoteRoot": "/home/xbian/.kodi/addons"
+        }
+      ]
+    }
+  ]
+}
