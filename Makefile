@@ -1,4 +1,7 @@
-REMOTE_HOST = xbian.local
+ # WIFI network
+# REMOTE_HOST = xbian.local
+# LAN no spazi alla fine, se no crash
+REMOTE_HOST = enmacc.iliadboxos.it
 REMOTE_PATH = /home/xbian/.kodi
 LOCAL_PATH  = /home/emacchia/Private/kodi_xbian/remote
 

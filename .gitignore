@@ -54,5 +54,14 @@ remote/userdata/addon_data/**/*.def
 remote/userdata/playlists/
 remote/userdata/addon_data/service.libraryautoupdate/last_run.txt
 remote/userdata/addon_data/plugin.video.kod/db.sqlite
+# File che variano ad ogni riavvio
+remote/userdata/addon_data/plugin.video.elementum/.lockfile
+remote/userdata/addon_data/plugin.video.kod/settings_channels/trakt_data.json
+remote/userdata/addon_data/plugin.video.kod/settings_channels/videolibrary_data.json
+remote/userdata/addon_data/script.service.playbackresumer/lastplayed.txt
+remote/userdata/addon_data/script.service.playbackresumer/resumepoint.txt
+remote/userdata/addon_data/skin.estuary/settings.xml
+remote/userdata/addon_data/plugin.googledrive/settings.xml
+
 __*
 *copy*
