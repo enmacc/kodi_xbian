@@ -26,7 +26,18 @@ Questo repo contiene:
    make mount
 
 2. Patcha tutti gli addon con `debugpy`:
-   make patch
+   ~~make patch~~
+   non più, s'interrompe sulla stessa porta
+
+2. metti `import_patch_debug.py` all'inizio del file `default.py` che vuoi debuggare
+
+      ```python
+
+      import import_patch_debug
+
+      # Resto del tuo addon
+
+      ```
 
 3. Avvia Kodi e l'addon → aspetta `wait_for_client()`
 
