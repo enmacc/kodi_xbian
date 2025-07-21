@@ -19,8 +19,9 @@ Questo repo contiene:
 ├── Makefile               # Automazioni varie
 └── .gitignore             # Git config
 
+```
 
-```## ✅ Flusso consigliato
+## ✅ Flusso consigliato
 
 1. Monta la cartella `.kodi`:
    make mount
