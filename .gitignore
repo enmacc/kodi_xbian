@@ -51,6 +51,11 @@ remote/userdata/addon_data/script.module.autocompletion/
 remote/userdata/addon_data/**/*.log.*
 remote/userdata/addon_data/**/*.zip
 remote/userdata/addon_data/**/*.def
+remote/userdata/addon_data/**/*.sqlite
+remote/userdata/addon_data/**/*.xml
+remote/userdata/addon_data/**/*.json
+remote/userdata/addon_data/**/*.*-shm
+remote/userdata/addon_data/**/*.*.wal
 remote/userdata/playlists/
 remote/userdata/addon_data/service.libraryautoupdate/last_run.txt
 remote/userdata/addon_data/plugin.video.kod/db.sqlite
@@ -62,6 +67,5 @@ remote/userdata/addon_data/script.service.playbackresumer/lastplayed.txt
 remote/userdata/addon_data/script.service.playbackresumer/resumepoint.txt
 remote/userdata/addon_data/skin.estuary/settings.xml
 remote/userdata/addon_data/plugin.googledrive/settings.xml
-
 __*
 *copy*
